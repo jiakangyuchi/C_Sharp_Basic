@@ -1,0 +1,2 @@
+c:\users\yuchi\source\repos\c_sharp\c_sharp\obj\Debug\c_sharp.csprojResolveAssemblyReference.cache
+c:\users\yuchi\source\repos\c_sharp\c_sharp\obj\Debug\c_sharp.csproj.CoreCompileInputs.cache
